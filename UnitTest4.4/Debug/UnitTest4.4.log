@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest4.4.cpp
+F:\ООП\Тема 4\Lab_4.1\Lab_4.1\Lab_4.1\CAndArray.cpp(23,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+     Creating library F:\ООП\Тема 4\Lab_4.1\Lab_4.1\Debug\UnitTest4.4.lib and object F:\ООП\Тема 4\Lab_4.1\Lab_4.1\Debug\UnitTest4.4.exp
+  UnitTest4.4.vcxproj -> F:\ООП\Тема 4\Lab_4.1\Lab_4.1\Debug\UnitTest4.4.dll
